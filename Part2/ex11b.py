@@ -10,5 +10,8 @@ def calculate(x,y,z):
     else:
         print("something wrong")
 
-print(calculate(1,"-",2))
-print(calculate(9,"/",3))
+print(calculate(10,"+",10))
+print(calculate(10,"-",10))
+print(calculate(10,"*",10))
+print(calculate(10,"/",10))
+
