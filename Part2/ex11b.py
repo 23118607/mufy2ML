@@ -5,3 +5,7 @@ def calculate(x,y,z):
         return x - z
     elif y == "*" :
         return x * z
+    elif y == "/" :
+        return x / z
+    else:
+        print("something wrong")
