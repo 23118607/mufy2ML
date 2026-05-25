@@ -1,0 +1,9 @@
+# List of names
+names = ['Tom', 'Jerry', 'Butch', 'Tuffy', 'Pecos']
+
+print(names)
+print(names[0])
+print(names[-1])
+
+result = names[1:3]
+print(result)
